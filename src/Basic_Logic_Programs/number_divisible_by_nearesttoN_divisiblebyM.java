@@ -1,3 +1,5 @@
+package Basic_Logic_Programs;
+
 import java.util.Scanner;
 public class number_divisible_by_nearesttoN_divisiblebyM {
     public static void main(String[] args) {

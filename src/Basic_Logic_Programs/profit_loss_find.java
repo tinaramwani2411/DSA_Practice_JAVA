@@ -1,3 +1,5 @@
+package Basic_Logic_Programs;
+
 import java.util.Scanner;
 public class profit_loss_find {
     public static void main(String[] args) {

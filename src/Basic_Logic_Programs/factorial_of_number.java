@@ -1,3 +1,5 @@
+package Basic_Logic_Programs;
+
 import java.util.Scanner;
 public class factorial_of_number {
     public static void main(String[] args) {

@@ -1,4 +1,5 @@
-import java.util.*;
+package Basic_Logic_Programs;
+
 import java.lang.*;
 
  class sum_of_squares_till_n {

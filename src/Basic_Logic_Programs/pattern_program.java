@@ -1,3 +1,5 @@
+package Basic_Logic_Programs;
+
 public class pattern_program {
     public static void main(String[] args) {
         for(int i=1; i<=5; i++){ //five row

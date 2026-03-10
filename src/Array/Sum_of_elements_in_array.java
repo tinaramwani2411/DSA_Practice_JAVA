@@ -1,3 +1,5 @@
+package Array;
+
 public class Sum_of_elements_in_array {
     public static void main(String[] args) {
         int arr[] = {23, 45 , 67, 43 , 21};

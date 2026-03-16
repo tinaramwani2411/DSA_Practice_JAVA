@@ -27,8 +27,13 @@ public class Array_of_Objects {
         stud_array[1]= s2;
         stud_array[2]= s3;
 
-        for(int i= 0; i<stud_array.length; i++){
-            System.out.println(stud_array[i].name+ ": " +stud_array[i].age+ ": " +stud_array[i].marks);
+//        for(int i= 0; i<stud_array.length; i++){
+//            System.out.println(stud_array[i].name+ ": " +stud_array[i].age+ ": " +stud_array[i].marks);
+//        }
+
+        //advance for loop
+        for(Student stud : stud_array ){
+            System.out.println(stud.name + " : " +stud.marks);
         }
     }
 }
